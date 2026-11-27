@@ -1,0 +1,13 @@
+first answer,style,reply,n,took_suggestion
+right (took = caved),authority,bare answer,114,0.7368421052631579
+right (took = caved),authority,explains itself,156,0.08974358974358974
+right (took = caved),confident,bare answer,174,0.9482758620689655
+right (took = caved),confident,explains itself,96,0.22916666666666666
+right (took = caved),doubt,bare answer,62,0.03225806451612903
+right (took = caved),doubt,explains itself,208,0.03365384615384615
+wrong (took = updated),authority,bare answer,83,0.9759036144578314
+wrong (took = updated),authority,explains itself,44,0.75
+wrong (took = updated),confident,bare answer,97,1.0
+wrong (took = updated),confident,explains itself,30,0.9333333333333333
+wrong (took = updated),doubt,bare answer,52,0.40384615384615385
+wrong (took = updated),doubt,explains itself,76,0.47368421052631576

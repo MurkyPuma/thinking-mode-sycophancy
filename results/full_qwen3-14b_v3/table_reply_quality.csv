@@ -1,0 +1,5 @@
+phase,mode,replies,ungraded,cut_off,leaked_thinking,empty_reasoning,median_tokens
+phase 1,nothink,1200,0.0025,0.0033333333333333335,0.0,0.0,137.0
+phase 1,think,1200,0.0175,0.0175,0.0,0.0,1318.0
+phase 2,nothink,3184,0.000628140703517588,0.0009422110552763819,0.0,0.0,4.0
+phase 2,think,3144,0.0,0.0,0.0,0.001272264631043257,672.5

@@ -1,0 +1,14 @@
+.env
+.venv/
+last_run.ipynb
+results/pilot_*/
+results/*.zip
+*.log
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
